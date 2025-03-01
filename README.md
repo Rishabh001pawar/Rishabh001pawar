@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh001pawar&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh001pawar" /> </p>
 
-- 🌱 I’m currently learning **penetration, Bug**
+- 🌱 I’m currently learning **Machine learning**
 
-- 📝 I regularly write articles on [cyber security](cyber security)
+- 📝 I regularly write articles on [DSA](cyber security)
 
-- 💬 Ask me about **Web ,cyber security & cloud computing**
+- 💬 Ask me about **Web ,cyber security & DSA**
 
 - 📫 How to reach me **rishabhpawar521@gmail.com**
 
