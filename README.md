@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 📝 I regularly write articles on [DSA](cyber security)
+- 📝 I regularly write articles on DSA
 
 - 💬 Ask me about **Web ,cyber security & DSA**
 
