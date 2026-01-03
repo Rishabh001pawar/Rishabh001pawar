@@ -1,16 +1,23 @@
-# Hi, I’m Rishabh Farkade 👋  
-### Software Engineer | Data Science & AI Enthusiast
+<!-- Dark Mode Only GitHub Profile README -->
 
-I’m a final-year Computer Science Engineering student focused on building **scalable software**, **AI-driven systems**, and **real-world solutions** with strong fundamentals.
+<h1 align="center">Hi 👋, I'm Rishabh Farkade</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Data+Science+%26+AI+Enthusiast;Problem+Solver;Always+Learning&center=true&width=600&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0d1117&style=flat" />
+</p>
 
 ---
 
-## 🚀 About Me
-- 🎓 B.E. in Computer Science (2022–2026)
-- 💻 Strong in **Java, Python, DSA**
-- 🤖 Interested in **Data Science, ML & AI**
-- 🔐 Exploring **Cybersecurity**
-- 🌱 Continuous learner & open-source contributor
+## 🧠 About Me
+🎓 Final-year Computer Science Engineering student (2022–2026)  
+💻 Strong in **Java, Python, Data Structures & Algorithms**  
+🤖 Passionate about **AI, Data Science & Intelligent Systems**  
+🔐 Interested in **Cybersecurity & secure software design**  
+🌱 Focused on consistency, learning, and real-world impact  
 
 ---
 
@@ -47,40 +54,49 @@ I’m a final-year Computer Science Engineering student focused on building **sc
 
 ---
 
-## 📌 Featured Projects
-- **AI-Powered Text Editor** – Smart editor with autosave, export, dark mode & AI features  
-- **Object Removal Tool** – React + Cloudinary based AI image manipulation  
-- **Portfolio Website** – Responsive UI with animations & dark mode  
-- **RoboGill (AI Research Project)** – Smart system for clean water & aquatic research  
+## 🚀 Featured Projects
+🔹 **AI-Powered Text Editor**  
+Smart editor with autosave, dark mode, export (PDF/MD/TXT), image insertion & AI assistance  
+
+🔹 **Object Removal Tool (React + Cloudinary)**  
+AI-based image manipulation using Cloudinary transformations  
+
+🔹 **Portfolio Website**  
+Responsive, animated UI with dark mode  
+
+🔹 **RoboGill (AI Research Project)**  
+Research-focused intelligent system for clean water & aquatic studies  
+
+---
+
+## 📊 GitHub Stats (Dark Theme Only)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
+</p>
 
 ---
 
 ## 🏆 Certifications
-- Google AI Essentials  
-- Google Cybersecurity  
-- Cisco CCNA  
-- Cisco Networking Virtual Internship  
-- Junior Penetration Tester  
-- ISRO AIML  
-
----
-
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-</p>
+✔ Google AI Essentials  
+✔ Google Cybersecurity  
+✔ Cisco CCNA  
+✔ Cisco Networking Virtual Internship  
+✔ Junior Penetration Tester  
+✔ ISRO AIML  
 
 ---
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/rishabh-farkade*
-- 🌐 Portfolio: *add link*
-- 📧 Email: *rishabhpawar059@gmail.com*
+<p align="left">
+  <a href="www.linkedin.com/in/rishabh-farkade"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/></a>
+  <a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="rishabhpawar059@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+</p>
 
 ---
 
-⭐ *If you like my work, feel free to star my repositories!*
+⭐ _“Build consistently. Learn deeply. Ship relentlessly.”_
