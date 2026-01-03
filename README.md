@@ -62,6 +62,8 @@
   <img src="https://img.shields.io/badge/OS-0d1117?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CN-0d1117?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DBMS-0d1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ml-0d1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/cyber Security-0d1117?style=for-the-badge"/>
 </p>
 
 ---
@@ -82,20 +84,6 @@
 
 ---
 
-## 📊 Engineering Metrics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Rishabh001pawar&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
-    height="165"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Rishabh001pawar&theme=github-dark&hide_border=true"
-    height="165"
-  />
-</p>
-
----
 
 ## 🌐 Connect
 <p align="center">
