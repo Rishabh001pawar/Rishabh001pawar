@@ -85,21 +85,27 @@
 ## 📊 Engineering Metrics
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Rishabh001pawar&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh001pawar&theme=github-dark&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Rishabh001pawar&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Rishabh001pawar&theme=github-dark&hide_border=true"
+    height="165"
+  />
 </p>
 
 ---
 
 ## 🌐 Connect
 <p align="center">
-  <a href="LINKEDIN_URL">
+  <a href="www.linkedin.com/in/rishabh-farkade">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
   </a>
   <a href="PORTFOLIO_URL">
     <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:rishabhpawr059@gmail.com">
     <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
 </p>
