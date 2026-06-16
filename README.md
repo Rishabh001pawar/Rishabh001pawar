@@ -14,7 +14,7 @@
 ---
 
 ## 🧠 Profile Snapshot
-- Final-year **Computer Science Engineer**
+- **Computer Science Engineer**
 - **Full-Stack + Data & AI** focused
 - Strong **DSA & system fundamentals**
 - Research-driven, production mindset
